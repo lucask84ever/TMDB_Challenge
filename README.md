@@ -29,4 +29,4 @@
 ### Extra!
 + Dentro da classe MovieViewModel, o método fetchUpcomingMovies faz as requisições dos filmes, entretanto há um parametro que é passado, para que serve? 
 + Crie uma extensão de UIImageView com um método chamado downloadImage em que será passado uma url e o mesmo deve baixar a imagem e utiliza-la.
-
++ Proponha melhorias, sempre é bom buscar novas formas de evoluir a aplicação.
